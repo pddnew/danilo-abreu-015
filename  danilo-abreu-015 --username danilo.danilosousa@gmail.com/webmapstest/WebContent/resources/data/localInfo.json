@@ -1,0 +1,36 @@
+{
+   "locations":[
+      {
+         "description":"Manaus",
+         "address_short":"Manaus - Amazonas, Brazil",
+         "latlng":{
+            "latitude":-3.1190275,
+            "longitude":-60.0217314
+         }
+      },
+      {
+         "description":"Est&aacute;dio C&iacute;cero Pompeu de Toledo",
+         "address_short":"Est&aacute;dio C&iacute;cero Pompeu de Toledo - S&atilde;o Paulo F. C - Morumbi, S&atilde;o Paulo, 05653-070, Brazil",
+         "latlng":{
+            "latitude":-23.6001177, 
+            "longitude":-46.7200934
+         }
+      },
+      {
+         "description":"Morumbi Coporate - Diamond tower",
+         "address_short":"Rua Henri Dunant, 1383 - Santo Amaro, São Paulo - SP, Brazil",
+         "latlng":{
+            "latitude":-23.6248,
+            "longitude":-46.7013
+         }
+      },
+      {
+         "description":"Distrito Industrial",
+         "address_short":"Distrito Industrial, Manaus - Amazonas, Brazil",
+         "latlng":{
+            "latitude":-3.1157526,
+            "longitude":-59.9704989
+         }
+      }
+   ]
+}
