@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Estádio Cícero Pompeu de Toledo - São Paulo F. C",
+               "short_name" : "Cícero Pompeu de Toledo São Paulo F. C",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "Morumbi",
+               "short_name" : "Morumbi",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "São Paulo",
+               "short_name" : "São Paulo",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "São Paulo",
+               "short_name" : "SP",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "05653-070",
+               "short_name" : "05653-070",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Estádio Cícero Pompeu de Toledo - São Paulo F. C - Morumbi, São Paulo, 05653-070, Brazil",
+         "geometry" : {
+            "location" : {
+               "lat" : -23.6001177,
+               "lng" : -46.7200934
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -23.5898925,
+                  "lng" : -46.704086
+               },
+               "southwest" : {
+                  "lat" : -23.6103421,
+                  "lng" : -46.7361008
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "stadium", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}
